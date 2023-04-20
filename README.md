@@ -15,4 +15,4 @@ people).
 for each group of objects (for example, the average cost of cars
 from different manufacturers). The grouping indicator belongs to the Enum type.
 Example of appearance:
-![Example](https://github.com/Alexsa7161/Bind_Forms/blob/Images/image.jpg?raw=true)
+![Example](https://github.com/Alexsa7161/Bind_Forms/blob/Images/9FkfMOrYFuk.jpg?raw=true)
