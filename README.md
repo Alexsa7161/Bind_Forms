@@ -1,5 +1,5 @@
-# Bind Forms
-Basic functionality:
+## Bind Forms
+#Basic functionality:
 1) The user interface includes the following elements: Chart, PictureBox,
 DataGridView, PropertyGrid, BindingNavigator. Elements are linked through an object
 BindingSource.
@@ -7,7 +7,7 @@ BindingSource.
 download an image from a file).
 3) Loading and saving data in different formats (bin, xml). The file
 is selected through a standard window for working with files.  \
-Additional functionality:
+#Additional functionality:
 1. Selection of objects that meet the specified condition for the numeric field
 (for example, display all countries with at least 50 million
 people).
