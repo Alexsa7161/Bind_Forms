@@ -14,3 +14,5 @@ people).
 2) A bar chart displays the average value of a fixed field
 for each group of objects (for example, the average cost of cars
 from different manufacturers). The grouping indicator belongs to the Enum type.
+Example of appearance:
+![Example](https://github.com/Alexsa7161/Bind_Forms/blob/Images/image.jpg?raw=true)
